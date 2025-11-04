@@ -1,6 +1,6 @@
 ## Hi 👋 I am Tushar
 - 🎓 I build things with code — currently working on real-world AI + Web projects.  
--I love solving problems, learning new technologies, and improving every day.
+- I love solving problems, learning new technologies, and improving every day.
 
 ## CURRENT WORK 
 - 🌱 Real time Sign language detection
