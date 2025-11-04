@@ -4,10 +4,9 @@
 
 ## CURRENT WORK 
 - 🌱 Real time Sign language detection
-- 
 ## FEATURED PROJECTS 
 - 🌱 BOOK RECOMMENDER - recommend books based on content based filtering
-- [Demo](https://applhebjfhtu65nn9e9cvx3.streamlit.app/) • [Code](https://github.com/tatvamasi-tt9/BOOK-RECOMMENDATION-SYSTEM-)
+-  [Demo](https://applhebjfhtu65nn9e9cvx3.streamlit.app/)  • [Code](https://github.com/tatvamasi-tt9/BOOK-RECOMMENDATION-SYSTEM-)
 <!--
 **tatvamasi-tt9/tatvamasi-tt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
