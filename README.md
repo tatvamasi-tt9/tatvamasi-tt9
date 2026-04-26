@@ -6,7 +6,7 @@
 - 🌱 Real time Sign language detection
 ## FEATURED PROJECTS 
 - 🌱 BOOK RECOMMENDER - recommend books based on content based filtering
--  [Demo](https://applhebjfhtu65nn9e9cvx3.streamlit.app/)  • [Code](https://github.com/tatvamasi-tt9/BOOK-RECOMMENDATION-SYSTEM-) •[Google Colab ](https://colab.research.google.com/drive/1CCmDsyfFFBfxhZXA29hhzucbRoc8Aiax)
+-  [Demo](https://applhebjfhtu65nn9e9cvx3.streamlit.app/)  • [Code](https://github.com/tatvamasi-tt9/BOOK-RECOMMENDATION-SYSTEM-) •[Google Colab 1](https://colab.research.google.com/drive/1CCmDsyfFFBfxhZXA29hhzucbRoc8Aiax)  [2] (https://colab.research.google.com/drive/180aL-UV_nILlz_ynya_rMx6fN5YqSz-3)
 
 - Quizzr -> An AI based Quiz generation app .Multiple formats accepted like pdfs, links, images,text etc.
 - [Code](https://github.com/tatvamasi-tt9/Quizrr-App)
