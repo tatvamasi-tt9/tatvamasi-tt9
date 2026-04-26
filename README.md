@@ -7,6 +7,9 @@
 ## FEATURED PROJECTS 
 - 🌱 BOOK RECOMMENDER - recommend books based on content based filtering
 -  [Demo](https://applhebjfhtu65nn9e9cvx3.streamlit.app/)  • [Code](https://github.com/tatvamasi-tt9/BOOK-RECOMMENDATION-SYSTEM-)
+
+- Quizzr -> An AI based Quiz generation app .Multiple formats accepted like pdfs, links, images,text etc.
+- [Code](https://github.com/tatvamasi-tt9/Quizrr-App)
 <!--
 **tatvamasi-tt9/tatvamasi-tt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
